@@ -11,8 +11,11 @@ Skills: FIGMA | WORDPRESS | PYTHON | HTML | CSS
 - 🌱 I’m currently learning Human Interface Design with Apple 
 - 💬 Ask me about Anything. 
 - 📫 How to reach me: hnhelal9@gmail.com 
-![Latest UI Design with Figma.](https://mir-s3-cdn-cf.behance.net/project_modules/1400/fbdbe8139823719.6236c0b0a4a17.jpg)
+-  <br>
 
+#### Latest Design with Figma.
+![Latest UI Design with Figma.](https://mir-s3-cdn-cf.behance.net/project_modules/1400/fbdbe8139823719.6236c0b0a4a17.jpg)
+ <br>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hnhelal9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hnhelal9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hnhelal9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hnhelal9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/hnhelal9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/hnhelal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/hnhelal9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://www.behance.net/hnhelal9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg' alt='dribbble' height='40'>](https://www.dribble.com/hnhelal9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pinterest.svg' alt='pinterest' height='40'>](https://www.pinterest.com/hnhelal9/)  
 
